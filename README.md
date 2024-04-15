@@ -1,1 +1,1 @@
-  ALGO -visualizer with Team smart
+  ALGO -visualizer with Team Algo-viz
